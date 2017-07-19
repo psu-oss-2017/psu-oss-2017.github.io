@@ -14,7 +14,7 @@ Projects this summer:
 * [ClientRepeat](http://github.com/SaschaStrand/ClientRepeat): Sascha Strand
 * [Connect_Four_Game](http://github.com/jialuwang/Connect_Four_Game): Jialu Wang
 * [EZFTP](http://github.com/glass2/EZFTP): Susham Yerabolu, Kenneth Martin *et al*
-* [ExportBrowserHistoryToExcel](http://github.com/Nirdeshika/ExportBrowserHistoryToExcel): Nirdeshika Polisetti
+* [ExportBrowserHistory](http://github.com/Nirdeshika/ExportBrowserHistory): Nirdeshika Polisetti
 * [GlobalSynth](http://github.com/randyrollofson/GlobalSynth): Randy Rollofson
 * [Greeb](http://github.com/ChrisGatehouse/Greeb): Chris Gatehouse
 * [Gypsum](http://github.com/mmcbee1/Gypsum): Meghan McBee
