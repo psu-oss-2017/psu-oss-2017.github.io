@@ -34,7 +34,6 @@ Projects this summer:
 * [TmxSql](http://github.com/stevebpdx/TmxSql): Steve Braich
 * [Traffic-Rush](http://github.com/lamhemanth/Traffic-Rush): Hemanth Lam, Nikhitha Durvasula
 * [TravelMate](http://github.com/olozl/TravelMate): Eunji Lee
-* [TrimetTra](http://github.com/david02848/TrimetTra): Jinghui Han
 * [WebSqlLang](http://github.com/tsviet/WebSqlLang): Mykhailo Tsvietukhin
 * [alexa-color-harmonies](http://github.com/maxmarchuk/alexa-color-harmonies): Max Marchuk
 * [dishes-flow](http://github.com/yejingyu/dishes-flow): Jingyu Ye
@@ -44,7 +43,7 @@ Projects this summer:
 * [open-gtfs-map](http://github.com/NomeQ/open-gtfs-map): Naomi Dickerson
 * [portableSpoons](http://github.com/christopherbar/portableSpoons): Christopher Bartlett
 * [scholarly](http://github.com/sos-michael/scholarly): Sos Oganessian
-* [smart_commuter](http://github.com/mezau532/smart_commuter): Ulysses Meza
+* [smart_commuter](http://github.com/mezau532/smart_commuter): Ulysses Meza, Jinghui Han
 * [speedtyper](http://github.com/trmckean/speedtyper): Tyler McKean
 * [teergrube](http://github.com/thuselem/teergrube): Julie Rutherford-Fields, Brian Ginsburg
 * [ue4-ik-system](http://github.com/hacoo/ue4-ik-system): Henry Cooney
