@@ -48,4 +48,5 @@ Projects this summer:
 * [teergrube](http://github.com/thuselem/teergrube): Julie Rutherford-Fields, Brian Ginsburg
 * [ue4-ik-system](http://github.com/hacoo/ue4-ik-system): Henry Cooney
 * world0 [api](http://github.com/world0/api) [web](http://github.com/world0/web): Daniel Arredondo
+* [WarMaps](https://github.com/ahunger603/WarMaps): Ashton Hunger
 * [ZipBike](https://github.com/abhishektatke/ZipBike): Abhishek Tatke, Rahul Kumar
